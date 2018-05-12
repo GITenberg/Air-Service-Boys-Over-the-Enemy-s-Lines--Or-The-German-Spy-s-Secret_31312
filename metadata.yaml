@@ -1,0 +1,35 @@
+_repo: Air-Service-Boys-Over-the-Enemy-s-Lines--Or-The-German-Spy-s-Secret_31312
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Herbert, Robert Gaston
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '31635'
+    url: http://www.gutenberg.org/2009/agents/31635
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beach, Charles Amory
+    gutenberg_agent_id: '2050'
+    url: http://www.gutenberg.org/2009/agents/2050
+description: The adventures of young American pilots during World War I in their air-duels
+  with German pilots and their interception of German homing pigeons used to send
+  messages from German spies in France back to Germany.
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+title: Air Service Boys Over the Enemy's Lines; Or, The German Spy's Secret
+url: http://www.gutenberg.org/ebooks/31312
