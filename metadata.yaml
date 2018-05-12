@@ -18,6 +18,8 @@ creator:
 description: The adventures of young American pilots during World War I in their air-duels
   with German pilots and their interception of German homing pigeons used to send
   messages from German spies in France back to Germany.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31312#Air-Service-Boys-Over-the-Enemy-s-Lines--Or-The-German-Spy-s-Secret
 gutenberg_issued: '2010-02-17'
 gutenberg_type: Text
 identifiers:
